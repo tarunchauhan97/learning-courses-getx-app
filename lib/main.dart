@@ -1,5 +1,5 @@
-import 'package:dronalms/app/constants/app_string_constants.dart';
-import 'package:dronalms/app/theme/color_util.dart';
+import 'package:learningcourses/app/constants/app_string_constants.dart';
+import 'package:learningcourses/app/theme/color_util.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
@@ -10,14 +10,14 @@ void main() {
   WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]).then(
     (value) => {
-      runApp(DronaLMS()),
+      runApp(learningcourses()),
     },
   );
-  // runApp(DronaLMS());
+  // runApp(learningcourses());
 }
 
-class DronaLMS extends StatelessWidget {
-  const DronaLMS({Key? key}) : super(key: key);
+class learningcourses extends StatelessWidget {
+  const learningcourses({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

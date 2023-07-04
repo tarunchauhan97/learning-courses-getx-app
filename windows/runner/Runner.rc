@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.4thpointer" "\0"
-            VALUE "FileDescription", "dronalms" "\0"
+            VALUE "FileDescription", "learningcourses" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "dronalms" "\0"
+            VALUE "InternalName", "learningcourses" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 com.4thpointer. All rights reserved." "\0"
-            VALUE "OriginalFilename", "dronalms.exe" "\0"
-            VALUE "ProductName", "dronalms" "\0"
+            VALUE "OriginalFilename", "learningcourses.exe" "\0"
+            VALUE "ProductName", "learningcourses" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

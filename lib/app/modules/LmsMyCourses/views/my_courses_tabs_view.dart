@@ -1,4 +1,4 @@
-import 'package:dronalms/app/modules/LmsMyCourses/components/mycourses_detail.dart';
+import 'package:learningcourses/app/modules/LmsMyCourses/components/mycourses_detail.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 

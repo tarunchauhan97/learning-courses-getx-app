@@ -1,5 +1,5 @@
 // ignore_for_file: non_constant_identifier_names, constant_identifier_names
-import 'package:dronalms/app/theme/color_util.dart';
+import 'package:learningcourses/app/theme/color_util.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:google_fonts/google_fonts.dart';

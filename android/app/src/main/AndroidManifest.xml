@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.u4thpointer.dronalms">
+    package="com.example.learningcourses">
    <application
-        android:label="dronalms"
+        android:label="learningcourses"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

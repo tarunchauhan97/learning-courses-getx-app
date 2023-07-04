@@ -1,7 +1,8 @@
-import 'package:dronalms/app/theme/color_util.dart';
-import 'package:dronalms/app/theme/text_style_util.dart';
+import 'package:learningcourses/app/theme/text_style_util.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+
+import '../theme/color_util.dart';
 
 class MyButton extends StatelessWidget {
   const MyButton({

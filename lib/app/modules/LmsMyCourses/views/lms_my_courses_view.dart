@@ -1,8 +1,8 @@
-import 'package:dronalms/app/components/custom_appbar.dart';
-import 'package:dronalms/app/components/lms_drawer.dart';
-import 'package:dronalms/app/modules/LmsMyCourses/views/my_courses_tabs_view.dart';
-import 'package:dronalms/app/theme/color_util.dart';
-import 'package:dronalms/app/theme/text_style_util.dart';
+import 'package:learningcourses/app/components/custom_appbar.dart';
+import 'package:learningcourses/app/components/lms_drawer.dart';
+import 'package:learningcourses/app/modules/LmsMyCourses/views/my_courses_tabs_view.dart';
+import 'package:learningcourses/app/theme/color_util.dart';
+import 'package:learningcourses/app/theme/text_style_util.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';

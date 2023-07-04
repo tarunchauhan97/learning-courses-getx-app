@@ -3,7 +3,7 @@
 abstract class LmsAppConstants {
   LmsAppConstants._();
 
-  static const String APP_NAME = "DronaLMS";
+  static const String APP_NAME = "learningcourses";
 
   //Dashboard Screen
   static const String COURSES = "Courses";

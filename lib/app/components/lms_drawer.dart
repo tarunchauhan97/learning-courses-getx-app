@@ -1,8 +1,8 @@
-import 'package:dronalms/app/constants/image_constants.dart';
-import 'package:dronalms/app/components/icon_text_row.dart';
-import 'package:dronalms/app/routes/app_pages.dart';
-import 'package:dronalms/app/theme/color_util.dart';
-import 'package:dronalms/app/theme/text_style_util.dart';
+import 'package:learningcourses/app/constants/image_constants.dart';
+import 'package:learningcourses/app/components/icon_text_row.dart';
+import 'package:learningcourses/app/routes/app_pages.dart';
+import 'package:learningcourses/app/theme/color_util.dart';
+import 'package:learningcourses/app/theme/text_style_util.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';

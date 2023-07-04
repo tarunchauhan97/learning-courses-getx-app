@@ -1,4 +1,4 @@
-import 'package:dronalms/app/theme/text_style_util.dart';
+import 'package:learningcourses/app/theme/text_style_util.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
